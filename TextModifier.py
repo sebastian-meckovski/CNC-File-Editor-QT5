@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import QAbstractItemView
 import os
 import ntpath
 
+
 class Window(QWidget):
     def __init__(self):
         QWidget.__init__(self)
