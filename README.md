@@ -40,6 +40,6 @@ pip install -r requirements.txt
 ```commandline
 python TextModifier.py
 ```
-![CNC File Editor Screenshot](media/screenshot.png)
+![CNC File Editor Screenshot]([media/screenshot.png](https://github.com/sebastian-meckovski/CNC-File-Editor-QT5/blob/master/media/Screenshot.png?raw=true)https://github.com/sebastian-meckovski/CNC-File-Editor-QT5/blob/master/media/Screenshot.png?raw=true)
 
 [![CNC File Editor Demo](media/screenshot.png)](media/Video%20demonstration.mp4)
