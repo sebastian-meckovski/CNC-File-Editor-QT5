@@ -44,5 +44,6 @@ python TextModifier.py
 ### Video demo
 [![CNC File Editor video demo](https://github.com/sebastian-meckovski/CNC-File-Editor-QT5/blob/master/media/Screenshot.png?raw=true)](https://github.com/sebastian-meckovski/CNC-File-Editor-QT5/assets/59857424/74047451-5564-428c-8364-8ee71e276830)
 
+![Screenshot](https://github.com/sebastian-meckovski/CNC-File-Editor-QT5/assets/59857424/48f3dd41-d415-44c7-9510-bebb8dc5a11b)
 
 
