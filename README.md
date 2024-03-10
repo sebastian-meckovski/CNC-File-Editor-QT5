@@ -1,13 +1,41 @@
-# TextModifier
+# CNC File Editor
+The CNC File Editor is a versatile tool tailored for efficient 
+manipulation of .hop and .txt files, crucial for CNC machine 
+operation.
 
-Program for making changes to a lot of text files in one click
+### Purpose
+This program automates routine changes, eliminating the need for
+manual effort previously taking up an average of one hour per 
+week for engineers. With just a few clicks, it streamlines file 
+modifications, significantly reducing production costs.
 
-Requires PyQT5 module to run
+### Key Features
+- Batch Editing: Effortlessly make changes to a multitude of .hop and .txt files at once.
+- Time Efficiency: Reduce the time spent on manual modifications, enhancing overall productivity.
+- Cost Reduction: By streamlining the editing process, the CNC File Editor contributes to a decrease in production costs.
 
-The program was designed to make a few simple changes to the large quantities of .hop (or .txt) files. These files contain 
-information that allows the CNC machine to operate correctly. It is used by custom design furniture Raaschou company in
-Copenhagen, Denmark. The machine engineer used to have to do these changes made manually, which was taking the Engineer
-on average one hour every week to accoplish. This application allows making changes to large quantities of these files 
-in a matter of few clicks, which slightly reduces production costs.
+# Running the application
+### Production environment
 
-Video descritption of my project: https://youtu.be/mniaN0Cl_eQ
+Run the .exe file included in the repo. The .exe file is packaged using pyinstaller, containing all dependencies. 
+It's approximately 30MB in size, but the advantage is that it doesn't require installation. Requires Windows 7 or later.
+
+### Development environment
+NOTE: Ensure Python 3.9 is installed on your system. Versions later than 3.9 may not be compatible.
+- In project root directory set up a virtual environment, by running
+```commandline
+python -m venv .\venv
+```
+- Activate Virtual Environment:
+```commandline
+.\venv\Scripts\activate
+```
+After activation, you should see **(venv)** on your terminal line.
+- Install Dependencies:
+```commandline
+pip install -r requirements.txt
+```
+- Run the program
+```commandline
+python TextModifier.py
+```
