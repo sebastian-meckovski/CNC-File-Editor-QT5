@@ -43,5 +43,6 @@ python TextModifier.py
 
 ### Video demo
 
-[![CNC File Editor Demo](media/screenshot.png)](https://www.youtube.com/watch?v=NCXi-4tzNCY)
+https://github.com/sebastian-meckovski/CNC-File-Editor-QT5/assets/59857424/74047451-5564-428c-8364-8ee71e276830
+
 
