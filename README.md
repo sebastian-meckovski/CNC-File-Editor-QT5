@@ -7,7 +7,8 @@ operation.
 This program automates routine changes, eliminating the need for
 manual effort previously taking up an average of one hour per 
 week for engineers. With just a few clicks, it streamlines file 
-modifications, significantly reducing production costs.
+modifications, significantly reducing production costs.  For visual
+demonstrations, please refer to the screenshots and video provided below.
 
 ### Key Features
 - Batch Editing: Effortlessly make changes to a multitude of .hop and .txt files at once.
@@ -39,3 +40,6 @@ pip install -r requirements.txt
 ```commandline
 python TextModifier.py
 ```
+![CNC File Editor Screenshot](media/screenshot.png)
+
+[![CNC File Editor Demo](media/screenshot.png)](media/Video%20demonstration.mp4)
