@@ -1,4 +1,7 @@
 # CNC File Editor
+
+A .NET WPF Version of this application can be found [here](https://github.com/sebastian-meckovski/CNC-File-Editor)
+
 The CNC File Editor is a versatile tool tailored for efficient 
 manipulation of .hop and .txt files, crucial for CNC machine 
 operation.
